@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Simple To Do List</string>
+
+    <string name="additemhint">New Item</string>
+
+    <string name="add_item">Add Item</string>
+
+</resources>
